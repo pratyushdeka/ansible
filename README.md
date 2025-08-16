@@ -1,2 +1,1 @@
-# Ansible
-Ansible Knowledge Base
+# Ansible Knowledge Base
